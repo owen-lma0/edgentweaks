@@ -11,8 +11,6 @@
 // @grant        none
 // ==/UserScript==
 
-// CURRENTLY DOING MAJOR REWORK
-
 
 const version_num = '1.5.6'
 var $, jQuery;
